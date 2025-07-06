@@ -1,0 +1,7 @@
+Id,Make,Model,Year,Type,Status,CurrentRenter
+1,Toyota,Corolla,2019,Sedan,Available,,,
+2,Ford,Focus,2020,Hatchback,Available,,,
+3,Mercedes,S-class,2008,Sedan,Rented,Johnny,2024-12-12,2025-01-30
+4,BMW,3-series,2013,Sedan,Available,,,
+5,Mini,Cooper,2016,Hatchback,Available,,,
+6,Toyota,Avensis,2012,Wagon,Available,,,
